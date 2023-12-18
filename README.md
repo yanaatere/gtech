@@ -1,4 +1,4 @@
-# gtech
+# GTECH
 Technical Test For GTECH
 Using Java 17 And Spring 3.2.1
 
